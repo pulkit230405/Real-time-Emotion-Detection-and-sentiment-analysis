@@ -59,9 +59,6 @@ PySerial
 Arduino IDE
 
 Install Dependencies
-bash
-Copy
-Edit
 pip install opencv-python keras tensorflow pyserial numpy
 Run the Project
 Upload Sentiment_Detection.ino to Arduino using the Arduino IDE.
@@ -69,10 +66,6 @@ Upload Sentiment_Detection.ino to Arduino using the Arduino IDE.
 Adjust the COM port in main.py to match your system.
 
 Run the main script:
-
-bash
-Copy
-Edit
 python main.py
 Press Q to quit the application.
 
